@@ -8,4 +8,4 @@ The Solidity version of "Hello World" - introduces basic syntax of Solidity and 
 An introduction to more features of Ethereum - reviews concepts from the previous demo and introduces more advanced features (and limitations) of Solidity, such as array, more syntax, etc.
 
 ## lottery-react
-An introduction to ethereum web application - introduces the process of integrating the front-end (React) and the back-end (smart contract) in Ethereum.
+An introduction to Ethereum web application - introduces the process of integrating the front-end (React) and the back-end (smart contract) in Ethereum.
