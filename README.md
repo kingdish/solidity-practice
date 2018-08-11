@@ -9,3 +9,6 @@ An introduction to more features of Ethereum - reviews concepts from the previou
 
 ## lottery-react
 An introduction to Ethereum web application - introduces the process of integrating the front-end (React) and the back-end (smart contract) in Ethereum.
+
+## kickstart
+A much more sophisticated Ethereum web application with decent front-end - introduces a few design patterns of Ethereum applications and ways to use blockchain technology to solve real-world problems.
